@@ -17,10 +17,10 @@ parte del grupo.
 
 | Nombre completo | Código | Correo institucional |
 |---|---|---|
-| | | |
-| | | |
-| | | |
-| | | |
+|Maria Fernanda Betancourt Montoya | 2459510 | |
+|Oliver De Jesus Arboleda Baez  | 2459684| oliver.arboleda@correounivalle.edu.co|
+|Kevin Andres Rosero Romo | 2459554 | |
+
 
 ## Cómo se entrega
 
