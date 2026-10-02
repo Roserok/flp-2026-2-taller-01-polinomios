@@ -1,6 +1,6 @@
 #lang eopl
 
-;Autores: Nombre1 Codigo1, Nombre2 Codigo2, Nombre3 Codigo3
+;Autores: Maria Fernanda Betancourt Montoya 2459510, Oliver De Jesus Arboleda Baez 245984, Kevin Andres Rosero Romo 2459554
 
 ;; Taller 1 - Polinomios dispersos.
 ;; Parte 1: representacion basada en listas.
