@@ -1,6 +1,6 @@
 #lang eopl
 
-;Autores: Maria Fernanda Betancourt Montoya 2459510, Oliver De Jesus Arboleda Baez 245984, Kevin Andres Rosero Romo 2459554
+;Autores: Maria Fernanda Betancourt Montoya 2459510, Oliver De Jesus Arboleda Baez 2459684, Kevin Andres Rosero Romo 2459554
 
 ;; Taller 1 - Polinomios dispersos.
 ;; Parte 1: representacion basada en listas.
