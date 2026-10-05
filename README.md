@@ -19,7 +19,7 @@ parte del grupo.
 |---|---|---|
 |Maria Fernanda Betancourt Montoya | 2459510 | maria.fernanda.betancourt@correounivalle.edu.co|
 |Oliver De Jesus Arboleda Baez  | 2459684| oliver.arboleda@correounivalle.edu.co|
-|Kevin Andres Rosero Romo | 2459554 | | rosero.kevin@correounivalle.edu.co
+|Kevin Andres Rosero Romo | 2459554 |  rosero.kevin@correounivalle.edu.co |
 
 
 ## Cómo se entrega
